@@ -1,0 +1,102 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300);
+
+body {
+	background: url(http://static1.squarespace.com/static/54de5a26e4b0d9caed749706/t/54deda98e4b043f1c994ba74/1423891097278/dance+party.jpg?format=1500w);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: 'Oswald', serif;
+	font-size: 50px;
+	color: rgb(3,0,85);
+	text-align: center;
+}
+
+h2 {
+	font-family: 'Oswald', serif;
+	font-size: 30px;
+	color: rgb(3,0,85);
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+h3 {
+	font-family: 'Oswald', serif;
+	font-size: 30px;
+	color: rgb(225,241,255);
+	text-align: center;
+	padding: 0px;
+	margin: 0px;
+}
+
+#headline-background {
+	background-color: rgb(240,249,254);
+	height: 100px;
+	width: 100%;
+}
+
+#dealer {
+	height: 500 px;
+	width: 100%;
+}
+
+#player {
+	height: 500 px;
+	width: 100%;
+}
+
+#amount {
+	width: 150px;
+}
+
+.card-format {
+	height: 250px;
+	width: 150px;
+	margin: 0 auto;
+	display: inline-block;
+}
+
+.card-format img {
+	max-height: 100%;
+	max-width: 100%;
+}
+
+.hand-format {
+	display: inline-block;
+}
+
+#hide-card{
+	height: 500 px;
+	width: 100%;
+	margin: 0 auto;
+	display: inline-block;
+	background: url(https://s-media-cache-ak0.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
+
+#status-player {
+	font-family: 'Oswald', serif;
+	font-size: 14px;
+	color: rgb(225,241,255);
+	text-align: center;
+}
+
+#status-dealer {
+	font-family: 'Oswald', serif;
+	font-size: 14px;
+	color: rgb(3,0,85);
+	text-align: center;
+}
+
+#landing-card{
+	height: 250px;
+	width: 150px;
+	margin: 0 auto;
+	display: inline-block;
+	background: url(https://s-media-cache-ak0.pinimg.com/236x/c1/59/b4/c159b4738dae9c9d8d6417228024de8d.jpg);
+	background-size: cover;
+	background-repeat: repeat;
+}
